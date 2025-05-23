@@ -1,0 +1,8 @@
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\obj\Debug\BMI och BMR.csproj.AssemblyReference.cache
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\obj\Debug\BMI och BMR.csproj.SuggestedBindingRedirects.cache
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\obj\Debug\BMI och BMR.csproj.CoreCompileInputs.cache
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\bin\Debug\BMI och BMR.exe.config
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\bin\Debug\BMI och BMR.exe
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\bin\Debug\BMI och BMR.pdb
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\obj\Debug\BMI och BMR.exe
+C:\Users\samahm\source\repos\BMI och BMR\BMI och BMR\obj\Debug\BMI och BMR.pdb
